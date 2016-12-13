@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Carousel.html" />
+    <Content Include="Container.html" />
     <Content Include="Images\img_01.jpg" />
     <Content Include="Images\img_02.jpg" />
     <Content Include="Images\img_03.jpg" />
